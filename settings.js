@@ -27,8 +27,8 @@ global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
-global.autolevelup = true
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
+global.autolevelup = false
 global.groupOnly = false //bot hanya bisa di gunakan dalam grup
 
 //language
